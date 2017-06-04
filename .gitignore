@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# KDevelop user specific files
+.kde4/
+
 # Visual Studio 2015 database file
 *.VC.db
 
@@ -43,6 +46,14 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.kdev4
+*.pro
+*.workspace
+*CodeCompletionFolders.txt
+*CodeLitePreProcessor.txt
+*.pri
+CMakeLists.txt
+Makefile
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -73,3 +84,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Redistributable Build
+Dist/*
