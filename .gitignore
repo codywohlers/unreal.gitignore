@@ -1,10 +1,10 @@
-# Visual Studio 2015 user specific files
+# Visual Studio user specific files
 .vs/
 
 # KDevelop user specific files
 .kde4/
 
-# Visual Studio 2015 database file
+# Visual Studio database file
 *.VC.db
 
 # Compiled Object files
